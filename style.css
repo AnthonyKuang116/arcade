@@ -135,5 +135,22 @@ header{
     background-color: red;
     border: 1px solid black;
     font-size: 30px;
-    margin: 10px;
+    margin: 20px;
+}
+
+.score, .highScore, .averageScore, .snakeLength, .highestLength{
+    color: white;
+    font-size: 30px;
+}
+
+.difficulty{
+    margin-top: 10px;
+    color: greenyellow;
+    font-size: 18px;
+}
+
+.difficultyDesc{
+    margin-top: 10px;
+    color: greenyellow;
+    font-size: 14px;
 }
